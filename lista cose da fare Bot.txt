@@ -1,0 +1,8 @@
+questo messaggio è stato rilevato come inappropriato
+
+casi d'uso aggiuntivo modifica le parole da censurare (add/delete) 
+
+da fare: pop up per confermare invio del messaggio;
+	
+	 inserire altre parole tramite comandi su telegram (può farlo solo l'admin, serve chatId admin)
+	 es. /addword ciaone e l'admin lo inserisce nel file di testo
